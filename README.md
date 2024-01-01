@@ -1,2 +1,2 @@
 # practice_cloud
-This is practice repository to learn Cloud computing.
+This is a practice repository to learn Cloud computing. It will be updated with time.
